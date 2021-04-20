@@ -5,7 +5,6 @@
 *  **Endpoint** : `/health_check`
 *  **Response** :
 ```
-#!json
 {
   "status": 200
 }
